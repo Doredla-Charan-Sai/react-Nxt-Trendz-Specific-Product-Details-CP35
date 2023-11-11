@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.simi-pro-card {
+  width: 30%;
+  margin-bottom: 30px;
+}
+.simi-pro-mg {
+  border-radius: 5px;
+  width: 100%;
+}
+.rate-price-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}

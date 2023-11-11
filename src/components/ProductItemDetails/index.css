@@ -1,0 +1,79 @@
+/* Write your CSS here */
+.product-spe-cont {
+  padding: 70px;
+}
+.pro-cont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.product-mg {
+  width: 50%;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+.title {
+  font-size: 40px;
+}
+.price-spe-pro {
+  font-size: 28px;
+  font-weight: bold;
+}
+.rating-cont {
+  background-color: #3b82f6;
+  border-radius: 8px;
+  padding: 5px;
+  height: 30px;
+  margin-right: 10px;
+}
+.rating-spe-pro {
+  color: white;
+}
+.rating-star {
+  height: 22px;
+}
+.review-spe-pro {
+  font-size: 15px;
+}
+.count-btn {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
+.line {
+  color: #475569;
+}
+.spe-pro-count {
+  margin-right: 8px;
+  margin-left: 8px;
+}
+.add-to-cart {
+  background-color: #3b82f6;
+  border-radius: 8px;
+  color: white;
+  height: 35px;
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
+.simi-pro-list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0px;
+  list-style-type: none;
+}
+.simi-title {
+  margin-top: 50px;
+  font-size: 30px;
+}
+.loader-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
